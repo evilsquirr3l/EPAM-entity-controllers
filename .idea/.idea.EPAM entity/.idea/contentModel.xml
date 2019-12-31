@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_EPAM entity.-476182666.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BLL" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BLL.csproj" t="IncludeRecursive" />
+        <e p="Configs" t="Include">
+          <e p="Mapper.cs" t="Include" />
+          <e p="Ninject.cs" t="Include" />
+        </e>
+        <e p="DTO" t="Include">
+          <e p="CategoryDTO.cs" t="Include" />
+          <e p="ProductDTO.cs" t="Include" />
+          <e p="SupplierDTO.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="ICategoryService.cs" t="Include" />
+          <e p="IProductService.cs" t="Include" />
+          <e p="ISupplierService.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="BLL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="CategoryService.cs" t="Include" />
+          <e p="ProductService.cs" t="Include" />
+          <e p="SupplierService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DAL" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DAL.csproj" t="IncludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="Category.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+          <e p="Supplier.cs" t="Include" />
+        </e>
+        <e p="EntityConfigurations" t="Include">
+          <e p="CategoryConfiguration.cs" t="Include" />
+          <e p="ProductConfiguration.cs" t="Include" />
+          <e p="SupplierConfiguration.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="ICategoryRepository.cs" t="Include" />
+          <e p="IProductRepository.cs" t="Include" />
+          <e p="IRepository.cs" t="Include" />
+          <e p="ISupplierRepository.cs" t="Include" />
+          <e p="IUnitOfWork.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20191222225044_CreateDb.cs" t="Include" />
+          <e p="20191222225044_CreateDb.Designer.cs" t="Include" />
+          <e p="20191222225334_DeleteTestData.cs" t="Include" />
+          <e p="20191222225334_DeleteTestData.Designer.cs" t="Include" />
+          <e p="20191226171509_ProductsUpdate.cs" t="Include" />
+          <e p="20191226171509_ProductsUpdate.Designer.cs" t="Include" />
+          <e p="20191229145114_SeedData.cs" t="Include" />
+          <e p="20191229145114_SeedData.Designer.cs" t="Include" />
+          <e p="ProductContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="DAL.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ProductContext.cs" t="Include" />
+        <e p="Repositories" t="Include">
+          <e p="CategoryRepository.cs" t="Include" />
+          <e p="ProductRepository.cs" t="Include" />
+          <e p="SupplierRepository.cs" t="Include" />
+        </e>
+        <e p="UnitOfWork.cs" t="Include" />
+      </e>
+      <e p="EPAM entity.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebApi" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="CategoriesController.cs" t="Include" />
+          <e p="ProductsController.cs" t="Include" />
+          <e p="SuppliersController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="WebApi.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebApi.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

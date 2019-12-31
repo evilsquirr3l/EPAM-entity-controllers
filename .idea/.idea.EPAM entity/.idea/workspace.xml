@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="671a7f2a-c129-4290-bab2-97536c53fdc6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="EPAM entity" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BLL/Interfaces/ISupplierService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/EntityConfigurations/CategoryConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/EntityConfigurations/SupplierConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Migrations/20191226171509_ProductsUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/UnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Configs/Ninject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Interfaces/IProductService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Entities/Category.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Entities/Supplier.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Entities/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Configs/Mapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Migrations/20191229145114_SeedData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Controllers/SuppliersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Interfaces/IProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Interfaces/ICategoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Interfaces/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Interfaces/ISupplierRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Controllers/ProductsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Interfaces/IUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Migrations/20191222225044_CreateDb.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Migrations/20191222225334_DeleteTestData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Migrations/ProductContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Controllers/CategoriesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Services/ProductService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Services/SupplierService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/DTO/CategoryDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/DTO/SupplierDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApi/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/DTO/ProductDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Repositories/ProductRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/ProductContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Repositories/SupplierRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/Repositories/CategoryRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/EntityConfigurations/ProductConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Interfaces/ICategoryService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Services/CategoryService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DAL/EF/Startup.cs" />
+        <option value="$PROJECT_DIR$/DAL/EF/IUnitOfWork.cs" />
+        <option value="$PROJECT_DIR$/Console/Program.cs" />
+        <option value="$PROJECT_DIR$/DAL/Repositories/SupplierRepository.cs" />
+        <option value="$PROJECT_DIR$/DAL/EF/ProductContext.cs" />
+        <option value="$PROJECT_DIR$/DAL/Interfaces/IUnitOfWork.cs" />
+        <option value="$PROJECT_DIR$/DAL/EF/UnitOfWork.cs" />
+        <option value="$PROJECT_DIR$/DAL/Repositories/UnitOfWork.cs" />
+        <option value="$PROJECT_DIR$/BLL/DTO/Supplier.cs" />
+        <option value="$PROJECT_DIR$/DAL/EntityConfigurations/ProductConfigurations.cs" />
+        <option value="$PROJECT_DIR$/DAL/EntityConfigurations/SupplierConfigurations.cs" />
+        <option value="$PROJECT_DIR$/DAL/EntityConfigurations/SupplierConfiguration.cs" />
+        <option value="$PROJECT_DIR$/DAL/Migrations/20191222212716_CreateDB.cs" />
+        <option value="$PROJECT_DIR$/DAL/Entities/Category.cs" />
+        <option value="$PROJECT_DIR$/DAL/EntityConfigurations/CategoryConfiguration.cs" />
+        <option value="$PROJECT_DIR$/DAL/Entities/Product.cs" />
+        <option value="$PROJECT_DIR$/DAL/UnitOfWork.cs" />
+        <option value="$PROJECT_DIR$/BLL/Interfaces/ICategoryService.cs" />
+        <option value="$PROJECT_DIR$/DAL/EntityConfigurations/ProductConfiguration.cs" />
+        <option value="$PROJECT_DIR$/BLL/Configs/AutoMapprt.cs" />
+        <option value="$PROJECT_DIR$/BLL/Services/Service.cs" />
+        <option value="$PROJECT_DIR$/BLL/Services/CategoryService.cs" />
+        <option value="$PROJECT_DIR$/BLL/Services/SupplierService.cs" />
+        <option value="$PROJECT_DIR$/BLL/Interfaces/ISupplierService.cs" />
+        <option value="$PROJECT_DIR$/BLL/Interfaces/IProductService.cs" />
+        <option value="$PROJECT_DIR$/BLL/Configs/Ninject.cs" />
+        <option value="$PROJECT_DIR$/PLL/Program.cs" />
+        <option value="$PROJECT_DIR$/BLL/Store.cs" />
+        <option value="$PROJECT_DIR$/Web api/Controllers/Product.cs" />
+        <option value="$PROJECT_DIR$/Web api/Startup.cs" />
+        <option value="$PROJECT_DIR$/Web api/Controllers/ProductController.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/WeatherForecastController.cs" />
+        <option value="$PROJECT_DIR$/BLL/Configs/Config.cs" />
+        <option value="$PROJECT_DIR$/BLL/Configs/AutoMapper.cs" />
+        <option value="$PROJECT_DIR$/BLL/Configs/Mapper.cs" />
+        <option value="$PROJECT_DIR$/DAL/appsettings.json" />
+        <option value="$PROJECT_DIR$/DAL/ProductContext.cs" />
+        <option value="$PROJECT_DIR$/WebApi/appsettings.json" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/ProductControlelr.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/CategoryController.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/SupplierController.cs" />
+        <option value="$PROJECT_DIR$/BLL/Services/ProductService.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/ProductsController.cs" />
+        <option value="$PROJECT_DIR$/DAL/Repositories/CategoryRepository.cs" />
+        <option value="$PROJECT_DIR$/DAL/Repositories/ProductRepository.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Controllers/SuppliersController.cs" />
+        <option value="$PROJECT_DIR$/WebApi/Startup.cs" />
+        <option value="$PROJECT_DIR$/BLL/DTO/CategoryDTO.cs" />
+        <option value="$PROJECT_DIR$/BLL/DTO/ProductDTO.cs" />
+        <option value="$PROJECT_DIR$/BLL/DTO/SupplierDTO.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VIuLh6Dx5sz4CQ3SmNRuwddAUe" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTTP Request" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="https://localhost:5001" />
+          <option name="urlPath" value="/api/category/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://localhost:5001" />
+          <option name="urlPath" value="/api/category/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://localhost:5001" />
+          <option name="urlPath" value="/api/category/1/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WebApi/bin/Debug/netcoreapp3.0/WebApi.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebApi" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WebApi/WebApi.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <browser start="true" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="671a7f2a-c129-4290-bab2-97536c53fdc6" name="Default Changelist" comment="" />
+      <created>1576952876644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576952876644</updated>
+      <workItem from="1576952879494" duration="3578000" />
+      <workItem from="1577017726312" duration="8986000" />
+      <workItem from="1577029407636" duration="2254000" />
+      <workItem from="1577032950438" duration="92000" />
+      <workItem from="1577033065744" duration="12644000" />
+      <workItem from="1577191024506" duration="1320000" />
+      <workItem from="1577380264261" duration="7495000" />
+      <workItem from="1577628635612" duration="9946000" />
+      <workItem from="1577709360595" duration="9000" />
+      <workItem from="1577709584711" duration="11430000" />
+      <workItem from="1577800114350" duration="8668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

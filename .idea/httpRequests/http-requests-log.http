@@ -1,0 +1,74 @@
+POST https://localhost:5001/api/category/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-31T053508.415.json
+
+###
+
+GET https://localhost:5001/api/category/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-31T053500.200.json
+
+###
+
+GET https://localhost:5001/api/category/1/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-31T052244.200.json
+
+###
+
+GET https://localhost:5001/api/category/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-31T052225.200.json
+
+###
+
+GET http://localhost:5001/api/category/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/category/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/category/
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5001/api/category
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5051/api/category
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5051/api/category
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:5051/category/
+Accept: */*
+Cache-Control: no-cache
+
+###
+

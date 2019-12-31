@@ -1,0 +1,17 @@
+[
+  {
+    "categoryId": 1,
+    "name": "Cars",
+    "products": []
+  },
+  {
+    "categoryId": 3,
+    "name": "Phones",
+    "products": []
+  },
+  {
+    "categoryId": 2,
+    "name": "Tea",
+    "products": []
+  }
+]

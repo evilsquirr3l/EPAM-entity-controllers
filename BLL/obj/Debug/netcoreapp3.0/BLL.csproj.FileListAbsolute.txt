@@ -1,0 +1,11 @@
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/bin/Debug/netcoreapp3.0/BLL.deps.json
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/bin/Debug/netcoreapp3.0/BLL.dll
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/bin/Debug/netcoreapp3.0/BLL.pdb
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/obj/Debug/netcoreapp3.0/BLL.csprojAssemblyReference.cache
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/obj/Debug/netcoreapp3.0/BLL.AssemblyInfoInputs.cache
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/obj/Debug/netcoreapp3.0/BLL.AssemblyInfo.cs
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/obj/Debug/netcoreapp3.0/BLL.dll
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/obj/Debug/netcoreapp3.0/BLL.pdb
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/bin/Debug/netcoreapp3.0/DAL.dll
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/bin/Debug/netcoreapp3.0/DAL.pdb
+/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/obj/Debug/netcoreapp3.0/BLL.csproj.CopyComplete

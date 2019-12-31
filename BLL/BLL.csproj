@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+        <RootNamespace>EPAM_entity</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <None Remove="Context\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Context\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Context\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\DAL\DAL.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="9.0.0" />
+      <PackageReference Include="Ninject" Version="4.0.0-beta-0134" />
+    </ItemGroup>
+
+</Project>
