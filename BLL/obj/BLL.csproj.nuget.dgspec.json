@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/BLL.csproj": {}
+    "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/BLL/BLL.csproj": {}
   },
   "projects": {
-    "/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/BLL.csproj": {
+    "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/BLL/BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/BLL.csproj",
+        "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/BLL/BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/BLL.csproj",
+        "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/BLL/BLL.csproj",
         "packagesPath": "/Users/evilsquirrel/.nuget/packages/",
-        "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/obj/",
+        "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/BLL/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/evilsquirrel/RiderProjects/EPAM entity/DAL/DAL.csproj": {
-                "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/DAL/DAL.csproj"
+              "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/DAL/DAL.csproj": {
+                "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/DAL/DAL.csproj"
               }
             }
           }
@@ -61,18 +61,24 @@
             "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/evilsquirrel/RiderProjects/EPAM entity/DAL/DAL.csproj": {
+    "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/DAL/DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM entity/DAL/DAL.csproj",
+        "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/DAL/DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/DAL/DAL.csproj",
+        "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/DAL/DAL.csproj",
         "packagesPath": "/Users/evilsquirrel/.nuget/packages/",
-        "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/DAL/obj/",
+        "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/DAL/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -138,7 +144,13 @@
             "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM entity/WebApi/WebApi.csproj",
+    "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/WebApi/WebApi.csproj",
     "projectName": "WebApi",
-    "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/WebApi/WebApi.csproj",
-    "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/WebApi/obj/",
+    "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/WebApi/WebApi.csproj",
+    "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/WebApi/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -18,8 +18,8 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/BLL.csproj": {
-            "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/BLL/BLL.csproj"
+          "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/BLL/BLL.csproj": {
+            "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/BLL/BLL.csproj"
           }
         }
       }
@@ -41,7 +41,16 @@
         "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
     }
   }
 }

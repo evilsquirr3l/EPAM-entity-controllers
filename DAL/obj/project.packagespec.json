@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM entity/DAL/DAL.csproj",
+    "projectUniqueName": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/DAL/DAL.csproj",
     "projectName": "DAL",
-    "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/DAL/DAL.csproj",
-    "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM entity/DAL/obj/",
+    "projectPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/DAL/DAL.csproj",
+    "outputPath": "/Users/evilsquirrel/RiderProjects/EPAM entity + controllers/DAL/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -67,7 +67,13 @@
         "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
     }
   }
 }
